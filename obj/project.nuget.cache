@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmAr/auyMg9XKRgBkaMPN1M4vPbNXcuao0qohm/pqGS5JFYQvigjne5osP4cudVjNR4He3+22p5IxvYdc5aaMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\PotatMod\\PotatMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
